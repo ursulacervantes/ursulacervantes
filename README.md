@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 I’m Ursula. A gal who wants to create awesome stuff✨
 
-A problem solver and allround senior web engineer 👩🏽‍💻 with good knowledge of front-end techniques. I love algorithms, data structure and I also stand for quality.
+A problem solver and allround senior web engineer with good knowledge of front-end techniques. I love algorithms, data structure and I also stand for quality.
 
-I believe in nudging things forward — thoughtfully and intentionally. Asking 💭 ‘what if’ as often as possible, constantly challenging standards, and 👩🏽‍🔬 experimenting endlessly.
+I believe in nudging things forward — thoughtfully and intentionally. Asking ‘what if’ as often as possible, constantly challenging standards, and 👩🏽‍🔬 experimenting endlessly.
 
 
 ![Busy coding year.](https://res.cloudinary.com/dsa8dmjno/image/upload/v1594554499/github_contribution.png)
